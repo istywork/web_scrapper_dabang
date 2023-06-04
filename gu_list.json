@@ -1,0 +1,9 @@
+{
+	"중곡동": { "id": "region_11215101", "type": "region", "name": "중곡동" },
+	"능동": { "id": "region_11215102", "type": "region", "name": "능동" },
+	"구의동": { "id": "region_11215103", "type": "region", "name": "구의동" },
+	"광장동": { "id": "region_11215104", "type": "region", "name": "광장동" },
+	"자양동": { "id": "region_11215105", "type": "region", "name": "자양동" },
+	"화양동": { "id": "region_11215107", "type": "region", "name": "화양동" },
+	"군자동": { "id": "region_11215109", "type": "region", "name": "군자동" }
+}
