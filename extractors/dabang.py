@@ -147,6 +147,7 @@ def category_price(e, dict1, dict2):
     for li_elem in li_price:
         tmp = li_elem.find_elements(By.TAG_NAME, 'div')
         x = tmp[0].get_attribute('innerText')
+
         if "월세" in x:
             splitted = tmp[1].get_attribute('innerText').split("/")
             num = 0
@@ -163,8 +164,9 @@ def category_price(e, dict1, dict2):
             dict1[ko_to_en["보증금"]], dict1[ko_to_en["월세"]] = num, int(
                 re.findall(r'\d+', splitted[1])[0])*10000
         elif "관리비" in x:
-            p_elem = tmp[1].find_element(By.TAG_NAME, 'p')
+            p_elem = tmp[1].find_element(By.CSS_SELECTOR, 'p:nth-child(1)')
             tmp = p_elem.get_attribute('innerText').strip()
+            print(tmp)
             if tmp != "없음":
                 dict2[ko_to_en["관리비"]] = int(
                     float(re.findall(r'\d+\.?\d*', tmp)[0])*10000)
@@ -299,8 +301,8 @@ def extract_details(code_list):
         for op in real_estate:
             dict1[op] = None
         dict2 = {}
-        for op in real_estate:
-            dict2[op] = False
+        for op in real_estate_detail:
+            dict2[op] = None
         for category in content:
             tmp = category.get_attribute('name')
 

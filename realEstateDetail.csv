@@ -1,21 +1,21 @@
 managementFees,sink_status,aircondition_status,shoebox_status,washingMachine_status,refrigerator_status,closet_status,gasStoves_status,bed_status,cafe_status,detail_info,convenienceStore_status,laundry_status,supermarket_status,busStation_status,subway_status,realEstateAgency_status
-False,False,False,False,False,False,False,False,False,False,False,False,15000,True,True,True,"2층 방2 주방 욕실 
+15000,,,,,,,,,True,"2층 방2 주방 욕실 
 베란다 있습니다 
 공실이며 언제든지 입주가능 합니다 
 중랑천공원 전통시장 가까이 있습니다 
 지하철은 군자역 중곡역 이용합니다 
 전세13000만원 가능합니다 
 보증금2천/55 ,3천/50 가능합니다 
-반려동물은 불가입니다 "
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"반지층 방2 주방 욕실 
+반려동물은 불가입니다 ",True,,,,True,
+,,,,,,,,,True,"반지층 방2 주방 욕실 
 도배 장판 교체했습니다 
 창문하이샷시 교체했습니다 
 문짝 문틀 교체했습니다 
 바닥습기 없습니다 
 중랑천공원 전통시장 가까이 있습니다 
 지하철은 군자역 중곡역 이용합니다 
-반려동물은 불가입니다 "
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,"2017년식 1층 분리형 원룸 풀옵션
+반려동물은 불가입니다 ",True,,,,True,
+50000,,,,,,,,,True,"2017년식 1층 분리형 원룸 풀옵션
 
 전용 약12평 아주 공간 넓습니다.
 입주 날짜는 1달이상 협의입니다
@@ -24,49 +24,49 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 전세대출은 불가입니다.
 
 전통시장 가까이 있습니다 
-지하철은 군자역 이용합니다 "
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"1층 방3 거실 욕실 
+지하철은 군자역 이용합니다 ",True,,,,True,
+,,,,,,,,,True,"1층 방3 거실 욕실 
 2년전에 올수리 했습니다 
 공실이며 언제든지 입주가능 합니다 
 도배 교체 해주십니다 
 욕실수리 해주십니다 
 중랑천공원 전통시장 가까이 있습니다 
-지하철은 군자역 이용합니다 "
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"옥탑 분리형 원룸 
+지하철은 군자역 이용합니다 ",True,,,,True,
+,,,,,,,,,True,"옥탑 분리형 원룸 
 세탁기 에어컨  옵션입니다 
 상태깨끗 합니다 
 주방 변기 분리 커텐 있습니다 
 중랑천공원 재래시장 가까이 있습니다 
 옥상 사용가능합니다 
-지하철은 군자역 이용합니다 "
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"1.5층 방2 주방 욕실 
+지하철은 군자역 이용합니다 ",True,,,,True,
+,,,,,,,,,True,"1.5층 방2 주방 욕실 
 상태깨끗 합니다 
 입주일은 협의이며 빨리도 가능합니다 
 안방크며 주방공간 좋습니다 
 전통시장 중랑천공원 가까이 있습니다 
 지하철은 군자역 이용합니다 
 전세15500만원 가능합니다 
-LH,SH 가능합니다 "
-False,False,False,False,False,False,False,False,False,False,False,False,40000,True,True,True,"분리형 풀옵션 원룸 입니다 
+LH,SH 가능합니다 ",True,,,,True,
+40000,,,,,,,,,True,"분리형 풀옵션 원룸 입니다 
 군자역 이용하기 편리하며
 6월19일 이후 가능합니다
 주차는 불가입니다.
 사진은  같은 라인 호실로 구조와
-시설물 동일합니다."
-False,False,False,False,False,False,False,False,False,False,False,False,10000,True,True,True,"4층 전용30평 방3 큰거실 욕실2
+시설물 동일합니다.",True,,,,True,
+10000,,,,,,,,,True,"4층 전용30평 방3 큰거실 욕실2
 주차가능 합니다 
 도배 장판 교체했습니다 
 공실이며 언제든지 입주가능 합니다 
 가격대비 공간 아주좋아요 
 중랑천공원 재래시장 가까이 있습니다 
 지하철은 중곡역 이용합니다 
-보증금 1억5천에 100 만원도 가능합니다"
-False,False,False,False,False,False,False,False,False,False,False,False,15000,True,True,True,"주차 가능한 다가구주택 2룸
+보증금 1억5천에 100 만원도 가능합니다",True,,,,True,
+15000,,,,,,,,,True,"주차 가능한 다가구주택 2룸
 현재 공실 즉시입주
 화장실 싱크대 고급자재 사용 등
 집주인분께서 신경써서 리모델링한
-새집입니다."
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,"😍 좋은점 😍
+새집입니다.",True,,,,True,
+50000,,,True,,,,True,,True,"😍 좋은점 😍
 → 주차 가능 (위치협의)
 → 전체벽지 새롭게 진행예정
 → 보증금 조절 가능 (5천만원~1.5억원)
@@ -89,14 +89,14 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 ✅📌 매물정보 및 특이사항
 → 보증금 : 5,000만원 ~ 1억 5,000만원
 → 월세 : 80만원 ~ 30만원
-→ 옵션 : 도어락,가스레인지,싱크대,신발장"
-False,False,False,False,False,False,False,False,False,False,False,False,70000,True,True,True,True,True,"* 군자역 .중곡역 10분거리
+→ 옵션 : 도어락,가스레인지,싱크대,신발장",True,,,,True,
+70000,,True,True,,,,,,True,"* 군자역 .중곡역 10분거리
 * 조용한 환경
 * 테라스 뷰가 예뻐요
 * 널직한 구조
 * 재래시장 . 은행. 마트 10분이내 위치
-* 대원중고교.학원 인접권"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,"광진구 중곡동 대성예가
+* 대원중고교.학원 인접권",True,,,,True,
+50000,,True,True,,,,,,True,"광진구 중곡동 대성예가
 
 광진구 중곡동 위치좋고 공간 넓은 쓰리룸 빌라
 
@@ -114,14 +114,14 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 
 현재 공실로 바로 입주 가능합니다
 
-*방문전 사전문의 필수입니다"
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,"5.7호선 군자역 도보로 이용합니다.(10분 거리)
+*방문전 사전문의 필수입니다",True,,,,True,
+20000,,,,,,,,,True,"5.7호선 군자역 도보로 이용합니다.(10분 거리)
 방2개 화장실 1개 있습니다.
 수리후 입주 가능합니다.
 주차 가능합니다.
 보증금 조정 가능합니다. 
-전세 2억 가능합니다. "
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"🔵매물정보
+전세 2억 가능합니다. ",True,,,,True,
+,,,,,,,,,True,"🔵매물정보
 
 
 
@@ -155,16 +155,16 @@ False,False,False,False,False,False,False,False,False,False,False,False,True,Tru
 
 ﻿▶입주가능일: 세입자와 상의
 
-🔵 다른 궁금하신 사항 있으시면 문의 주세요"
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"1.공간 넖은 분리형원룸 
+🔵 다른 궁금하신 사항 있으시면 문의 주세요",True,,,,True,
+,,,,,,,,,True,"1.공간 넖은 분리형원룸 
 2.대출가능,주차 불가능 
 3.보증금4000/716,000원(관리비포함)~조절 가능 
-4.입주협의가능"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,"*시장과 마트 은행 7분 거리
+4.입주협의가능",True,,,,True,
+50000,,True,True,,,,True,,True,"*시장과 마트 은행 7분 거리
 *지하철 8분 거리
 *초등학교 5분
-*어린이대공원 10분"
-False,False,False,False,False,False,False,False,False,False,False,False,70000,True,True,True,True,True,True,True,"공동중개 X
+*어린이대공원 10분",True,,,,True,
+70000,,,True,True,True,,True,,True,"공동중개 X
 
 
 ★ 적합한 매물을 내 집처럼 찾아드려요!★
@@ -178,21 +178,31 @@ False,False,False,False,False,False,False,False,False,False,False,False,70000,Tr
 ▣ 등기 및 건축물대장을 확인하여 권리분석을 철저히 확인합니다.
 ▣ 365일 24시간 언제든 문의 가능합니다.
 
-★위치/가격/조건 별로 말씀해 주셔도 소개시켜 드리겠습니다.★"
-False,False,False,False,False,False,False,False,False,False,False,False
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,True,True,"입주는 7/1일 이후 협의
+★위치/가격/조건 별로 말씀해 주셔도 소개시켜 드리겠습니다.★",True,,,,True,
+70000,,,True,,,,True,,True,"✔ 다른 층 다른 호실도 있고 전세도 가능합니다.
+✔ 쓰리룸도 있습니다.
+
+✔ 여유로운 주차장
+✔ 대원고 도보 5분 거리
+✔ 7호선 중곡역 도보 7분
+
+✔ 조용한 안심 주택가에 위치하고 있습니다.
+✔ 건대입구와 가깝고 강남진출도 용이합니다.
+
+✔ 옵션 : 천장형에어컨, 가스렌지",True,,,,True,
+50000,,True,True,True,True,True,True,,True,"입주는 7/1일 이후 협의
 주차한대 가능
 애완동물 불가능
 공간 채광아주좋아요
 옵션:에어컨.세탁기.냉장고.가스렌지
 거실공간 아주좋음
-사진은 예전 세입자 거주시 사진임"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,True,"** 민간 주택임대사업자 등록된 풀옵션 원룸~
+사진은 예전 세입자 거주시 사진임",True,,,,True,
+50000,,True,True,True,True,,True,,True,"** 민간 주택임대사업자 등록된 풀옵션 원룸~
 ** 주차가능, 
 ** 관리비 및 주차비 5만원 별도
 ** 입주일 협의가능
-** 집 전체 대출 없어요~^^"
-False,False,False,False,False,False,False,False,False,False,False,False,70000,True,True,True,True,True,True,"→ 실사용 면적 : 43.6㎡(13.19평)
+** 집 전체 대출 없어요~^^",True,,,,True,
+70000,,True,True,,,,True,,True,"→ 실사용 면적 : 43.6㎡(13.19평)
 
 😍 좋은점 😍
 → 대출 가능 (상품협의 가능)
@@ -213,12 +223,12 @@ False,False,False,False,False,False,False,False,False,False,False,False,70000,Tr
 → 방(2),화장실(1),거실,주방,발코니
 
 ✅📌 매물정보 및 특이사항
-→ 옵션 : 도어락,에어컨,가스레인지,싱크대,신발장"
-False,False,False,False,False,False,False,False,False,False,False,False,10000,True,True,True,True,True,"* 날짜는 조정가능합니다.
+→ 옵션 : 도어락,에어컨,가스레인지,싱크대,신발장",True,,,,True,
+10000,,,True,,,,True,,True,"* 날짜는 조정가능합니다.
 * 게제된 사진은 1층 수리된 방이며 똑같이 수리하여 임대할 것임.
 * 주차가능하며 전철역은 도보 5분입니다.
-* 보증금조정과 반려동물은 사양합니다."
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,"2002년식 다세대 건물
+* 보증금조정과 반려동물은 사양합니다.",True,,,,True,
+30000,,,,,,,,,True,"2002년식 다세대 건물
 2층 (2.5층)
 등기평수 약25.3평
 (서비스면적 포함하면 실사용면적 더 넓어요)
@@ -231,8 +241,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,30000,Tr
 
 입주일 6월 20일 이후 협의
 
-*현재 세입자 거주 중으로 사전 문의 부탁드립니다"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,"Check Point 
+*현재 세입자 거주 중으로 사전 문의 부탁드립니다",True,,,,True,
+50000,,,True,,,,True,,True,"Check Point 
 - 위치 : 5,7호선 군자역 도보7분 거리
 - 구조 : 방(2),화장실(1)
 - 주변환경 :  중랑천길 산책로 및 자전거전용도로 도보 10분
@@ -246,43 +256,43 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 신혼부부, 형제자매등 이용하시기에 좋은 구조 사이즈입니다.
 도배교체해주시며, 날자는 협의 가능합니다.(계약 후 1달 보름정도)
 평일 방문은 오후5시 이후 가능합니다.
-1억5천/30도 가능합니다."
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,"5.7호선 군자역 도보로 이용합니다.
+1억5천/30도 가능합니다.",True,,,,True,
+50000,,True,,True,True,,,,True,"5.7호선 군자역 도보로 이용합니다.
 역에서 거리가 가깝고 생활 편의 시설도 잘 갖추어져 살기 좋습니다.
  분리형 원룸입니다. 공간이 좋습니다.
 주차는 불가합니다.
 냉장고, 에어컨, 세탁기, 인덕션 옵션 있습니다.
 즉시 입주 가능합니다.
 여성만 가능합니다. 
-임차료 선불입니다."
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,"* 반지층이지만 깊지않고 채광됩니다.
+임차료 선불입니다.",True,,,,True,
+,True,,,,,,,,True,"* 반지층이지만 깊지않고 채광됩니다.
 * 소형차주차 가능합니다.
-* 전철역은 도보 5분입니다."
-False,False,False,False,False,False,False,False,False,False,False,False,70000,True,True,True,True,True,True,True,True,"* 즉시입주 가능합니다.
+* 전철역은 도보 5분입니다.",True,,,,True,
+70000,,True,True,True,True,,True,,True,"* 즉시입주 가능합니다.
 * 보증금대출과 반려동물은 안됩니다.
-* 전철역은 도보 6분 소요됩니다."
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,"거실공간있는 다세대 주택 2룸입니다
+* 전철역은 도보 6분 소요됩니다.",True,,,,True,
+50000,,,True,,,,,,True,"거실공간있는 다세대 주택 2룸입니다
 거실+주방+세탁실+방2 구조
 가까운 전철역 5 7호선
 군자역과의 거리 카카오맵 기준
 도보 약 7분입니다
 입주일은 아직 정해지지않았고
 협의사항입니다. 문의주세요
-대출 및 주차가능해요"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,".7호선 군자역 도보로 이용합니다.
+대출 및 주차가능해요",True,,,,True,
+50000,,,,,,,,,True,".7호선 군자역 도보로 이용합니다.
 방2개, 화장실 1개 있습니다.
 주차 가능합니다.(주차비 10만원)
 입주는 7월 30일 협의합니다.
-관리비 5만원입니다. 정화조 별도입니다."
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,True,True,True,"입주는 6월 중순이후 협의
+관리비 5만원입니다. 정화조 별도입니다.",True,,,,True,
+20000,,True,True,,,,True,,True,"입주는 6월 중순이후 협의
 거실공간 넓고 
 방사이즈 큽니다
 채광 공간 아주좋음
 베란다 있음
 주차x
 애완동물x
-7호선 중곡역 초 역세권"
-False,False,False,False,False,False,False,False,False,False,False,False,10000,True,True,True,True,True,True,True,True,True,"※창고나 사무실도 가능합니다
+7호선 중곡역 초 역세권",True,,,,True,
+10000,,True,True,True,True,,True,True,True,"※창고나 사무실도 가능합니다
 
 
 
@@ -336,8 +346,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,10000,Tr
 ♥다른 궁금한 사항 있으시면 언제든 편하게 문의 주세요♥
 
 ♥차량 픽업 원하시면 말씀해 주세요♥
-  (군자역 1번 출구, 중곡역 2,3번 출구)"
-False,False,False,False,False,False,False,False,False,False,False,False,100000,True,True,True,True,True,True,True,"7호선 중곡역 7~8분 거리, 조용한 주택가 위치.
+  (군자역 1번 출구, 중곡역 2,3번 출구)",True,,,,True,
+100000,True,,True,True,True,,,,True,"7호선 중곡역 7~8분 거리, 조용한 주택가 위치.
 
 신축급 빌라식 건물로 공간 넓은 분리형 구조의 원룸입니다.
 
@@ -356,26 +366,26 @@ False,False,False,False,False,False,False,False,False,False,False,False,100000,T
 
 ** 대출 불가능 합니다.
 
-** 1억/25, 1억1천/20, 1억2천/15, 1억3천/10 가능합니다."
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,"ㅡ방두개가 모두 크고. 주방공간도 좋고 베란다있는 풀옵션  투룸입니다.
+** 1억/25, 1억1천/20, 1억2천/15, 1억3천/10 가능합니다.",True,,,,True,
+,,True,True,True,True,,True,,True,"ㅡ방두개가 모두 크고. 주방공간도 좋고 베란다있는 풀옵션  투룸입니다.
 
 ㅡ구의역 도보 4분거리며. 강변역과동서울터미널도. 도보가능하며. 6미터 도로라 밤늦은 퇴근도  안전하고  인근에. 어린이대공원 과 아차산도. 있어. 주말운동하기도 좋습니다.
 ㅡ2년 전에. 올리모델링 한집이라. 내부 깨끗합니다,
 
-ㅡ더 궁금하신. 부분은. 전화문의 주시면. 친절하게. 상담해드리겠습니다."
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,"ㅡ깨끗하게. 도배장판등 부분수리. 완료해서. 바로 입주가능한. 풀옵션 분리형원 룸 입니다.
+ㅡ더 궁금하신. 부분은. 전화문의 주시면. 친절하게. 상담해드리겠습니다.",True,,,,True,
+,,True,True,True,True,,True,,True,"ㅡ깨끗하게. 도배장판등 부분수리. 완료해서. 바로 입주가능한. 풀옵션 분리형원 룸 입니다.
 
 ㅡ구의역 도보  10여분 거리며. 강변역과. 동서울터미널도 도보 가능합니다
 
 ㅡ주변환경 조용한. 주거지역으로. 인근에. 어린이대공원과 아차산도 있어. 주말운동 하기도. 좋습니다.
-ㅡ더 궁금하신 부분은. 전화문의 주시면. 친절한 상담 해드리겠습니다."
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,"ㅡ바로. 입주가능하고 올수리해서. 깨끗합니다.
+ㅡ더 궁금하신 부분은. 전화문의 주시면. 친절한 상담 해드리겠습니다.",True,,,,True,
+,,True,True,True,True,,True,,True,"ㅡ바로. 입주가능하고 올수리해서. 깨끗합니다.
 ㅡ옵션은.  필요할시. 풀옵션으로 해주기로 했으며. 뽀송뽀송하고 채광이  지상같은 집이네요.
 ㅡ넓은 도로라  밤늦은 퇴근도 안전하고 
 인근에. 어린이대공원과 아차산도 있어서. 주말운동 하기도 좋고. 구의역 도보 8분거리며 강변역과 동서울터미널도 도보. 가능합니다.
-ㅡ더 궁금하신 부분은 전화문의 주시면. 친절하게. 상담해드리겠습니다."
-False,False,False,False,False,False,False,False,False,False,False,False
-False,False,False,False,False,False,False,False,False,False,False,False,40000,True,True,True,True,True,True,"- 구의역3분, 각종 편의시설 가까운 주택가
+ㅡ더 궁금하신 부분은 전화문의 주시면. 친절하게. 상담해드리겠습니다.",True,,,,True,
+,,,,,,,,,,,,,,,,
+40000,,True,True,,,,True,,True,"- 구의역3분, 각종 편의시설 가까운 주택가
 - 큰방1, 작은방2, 거실, 주방, 욕실1, 다용도실
 - 옥상개별창고 있음
 - 대 출 가 능
@@ -387,20 +397,20 @@ False,False,False,False,False,False,False,False,False,False,False,False,40000,Tr
 
 ★찾아주신 모든 분께 좋은 집을 찾아드리고자 최선을 다하는 롯데 부동산입니다
 ★궁금하신 점은 언제든지 편하게 문의주세요~ 성실히 답변해드리겠습니다~~^^
-★카톡문의도 가능합니다! (ID - winyoon)"
-False,False,False,False,False,False,False,False,False,False,False,False,70000,True,True,True,True,True,True,True,"-2호선 구의역까지 도보로 약 3분 거리 위치합니다.-편의점까지 도보로 약 1분, 마트까지 도보로 약 3분 거리 위치합니다.
+★카톡문의도 가능합니다! (ID - winyoon)",True,,,,True,
+70000,,True,True,True,True,,,,True,"-2호선 구의역까지 도보로 약 3분 거리 위치합니다.-편의점까지 도보로 약 1분, 마트까지 도보로 약 3분 거리 위치합니다.
 -병의원, 관공서, 구의동 먹자골목, 자양 시장 등 생활 편의시설 인프라 구축되어 있습니다.
 -창문이 많고 밝으며 공간이 넓은 분리형 원룸 원 거실입니다.
 -E/V 있는 신축3년차입니다.-다용실도 넓어 활용도 높습니다.
--전세 2억5천가능 합니다. 반전세로 보증금으로 월세 전환 가능합니다."
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,"** 구의역 도보 8분거리에 위치한 원룸입니다. 
+-전세 2억5천가능 합니다. 반전세로 보증금으로 월세 전환 가능합니다.",True,,,,True,
+50000,,True,,True,True,,True,,True,"** 구의역 도보 8분거리에 위치한 원룸입니다. 
 
 ** 주방과 분리된 구조에 채광도 나쁘지 않습니다. 
 
 ** 대출가능하고 애완동물은 불가입니다.
 
-** 엘에이치는 불가합니다."
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,True,"▣ 위치 
+** 엘에이치는 불가합니다.",True,,,,True,
+30000,,,True,True,True,,True,,True,"▣ 위치 
 - 구의역 6분거리 
 
 ▣ 매물정보 
@@ -453,9 +463,9 @@ A. 깔끔한 공간좋은 분리형 원룸 구조 입니다.
 # 100% 직접 촬영한 사진만을 사용합니다. 
 # 중개사고 방지를 위해 1억 공제증서 제공합니다. 
 # 가족의 집을 구한다는 마인드로 최선을 다하겠습니다. 
-# 원하시는 집을 구하실때까지 끝까지 책임지겠습니다."
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,True,True,True,True,True,광진구 구의동 구의역 도보 3분거리 분리형 풀옵션원룸 저렴한 월세 언제든지 입주가능 합니다 올수리 리모델링하여 2년 지난것 현재공실 언제든지 입주 가능합니다 
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,"* 역세권 올 리모델링 다세대 투룸으로 입주바로가능해요.
+# 원하시는 집을 구하실때까지 끝까지 책임지겠습니다.",True,,,,True,
+20000,,True,True,True,True,,True,,True,광진구 구의동 구의역 도보 3분거리 분리형 풀옵션원룸 저렴한 월세 언제든지 입주가능 합니다 올수리 리모델링하여 2년 지난것 현재공실 언제든지 입주 가능합니다 ,True,,,,True,
+,True,,True,,,,True,,True,"* 역세권 올 리모델링 다세대 투룸으로 입주바로가능해요.
 * 베란다 2, 남향으로 햇빛 가득하고 좋습니다.
 * 보증금 2000/80, 대출가능,융자없습니다.
 * 주차 불가.
@@ -464,28 +474,28 @@ False,False,False,False,False,False,False,False,False,False,False,False,True,Tru
 
 구의역 1번출구쪽에 있는 장원부동산입니다.
 좋은 물건으로 성심껏 안내하겠습니다.
-감사합니다^^~"
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"◈ 다세대 반지층 투룸
+감사합니다^^~",True,,,,True,
+,,,,,,,,,True,"◈ 다세대 반지층 투룸
 ◈ 보증금 1천만원/ 월세 45만원
 ◈ 도배,장판 교체
 ◈ 즉시입주 가능
 ◈ 주차공간 없습니다
 
-◈ 언제든 편하게 연락주세요"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,"4층 단독사용 입니다
+◈ 언제든 편하게 연락주세요",True,,,,True,
+50000,,,True,,,,,,True,"4층 단독사용 입니다
 방3개.화장실1개 입니다
 채광 좋습니다
 거실 넓습니다
 주차무료 입니다
-언제든 볼 수 있습니다"
-False,False,False,False,False,False,False,False,False,False,False,False,60000,True,True,True,"-거실이 크고 집이 환합니다
+언제든 볼 수 있습니다",True,,,,True,
+60000,,,,,,,,,True,"-거실이 크고 집이 환합니다
 -구의역 10분 거리이고 버스정류장도 가까워 교통이 좋습니다
 
 ◆ 안녕하세요~ 대광공인중개사사무소입니다 ◆
     저희를 찾아주시는 한 분 한 분께 진심을 다하겠습니다
     원하시는 최적의 물건을 찾으실 때까지 최선을 다하겠습니다
-    문의 전화나 상담은 언제든지 환영합니다"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True," # 특징
+    문의 전화나 상담은 언제든지 환영합니다",True,,,,True,
+50000,,,True,True,True,,,,True," # 특징
 
 ✨ 보증금 : 210만원(월세 및 관리비 3개월 선불금액)
 ✨ 월세 : 65만원 
@@ -496,23 +506,23 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 ➰  6월중순 입주협의
 ➰ 주차불가 
 ➰ 애완불가
-➰ 관리비는 위 건물 관리규정에 따릅니다"
-False,False,False,False,False,False,False,False,False,False,False,False,40000,True,True,True,"* 2룸, 1.7억/35가능,내부공간좋고깔끔, 전세대출,주차가능,거실부억분리,구의역강변역세권
+➰ 관리비는 위 건물 관리규정에 따릅니다",True,,,,True,
+40000,,,,,,,,,True,"* 2룸, 1.7억/35가능,내부공간좋고깔끔, 전세대출,주차가능,거실부억분리,구의역강변역세권
 * 보일러실에 세탁기이용가능, 전기/가스/수도 계량기 별도 있음.
-* 입주 협의 가능"
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,"- 정남향 거실과 안방으로 밝고 밝습니다.
+* 입주 협의 가능",True,,,,True,
+,True,,True,True,,,,,True,"- 정남향 거실과 안방으로 밝고 밝습니다.
 - 새롭게 올수리를 하고 새주인을 기다립니다.
 - 운치있는 마당갖춘 단독주택입니다.
 - 2층 전층을 사용하며,  2층 발코니가  전면적으로 길게 있습니다.
 - 막힌 집보다 트이고 시원한 집을 원하신다면 선택해 주십시요
 - 베란다도 있구요
 - 관리비도 없는데, 주차도 가능합니다.
-- 귀한 임대매물입니다."
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,True,True,True,"올수리 완료한 거실 넓은 남향집입니다.
+- 귀한 임대매물입니다.",True,,,,True,
+20000,True,,True,,,,True,,True,"올수리 완료한 거실 넓은 남향집입니다.
 넓은 투룸과 작은방 하나 더 있습니다.
 거실 넣고 베란다 아주 넓습니다.
-바로 입주 가능합니다."
-False,False,False,False,False,False,False,False,False,False,False,False,26000,True,True,True,"SK공인중개사사무소입니다.
+바로 입주 가능합니다.",True,,,,True,
+26000,,,,,,,,,True,"SK공인중개사사무소입니다.
 1.5층의  교통 편한 원룸 소개드려요.
 
 -해당 사진은 공실일 때 사진이고 현재 세입자 있습니다.
@@ -520,20 +530,20 @@ False,False,False,False,False,False,False,False,False,False,False,False,26000,Tr
 -2호선 구의역과 강변역 중간으로 각 역까지 도보로 약 10분 거리 위치합니다.
 -버스 정류장까지 도보로 약 2분 거리 위치합니다.
 -편의점까지 도보로 약 1분, 마트(홈플러스익스프레스)까지 도보로 약 5분 거리 위치합니다.
--구의역 먹자골목, 강변역 동서울터미널, 각종 음식점 및 프렌차이즈카페, 패스트푸드점, 개인카페, 병의원, 개인운동시설 등 생활편의시설 인프라가 구축되어 있습니다."
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"깔금하고 전용넓은 투룸입니다.
-보증금 조정가능하고 날짜협의가능합니다."
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,True,"즉시 입주가능한 원룸 원거실 풀옵션 월세입니다
+-구의역 먹자골목, 강변역 동서울터미널, 각종 음식점 및 프렌차이즈카페, 패스트푸드점, 개인카페, 병의원, 개인운동시설 등 생활편의시설 인프라가 구축되어 있습니다.",True,,,,True,
+,,,,,,,,,True,"깔금하고 전용넓은 투룸입니다.
+보증금 조정가능하고 날짜협의가능합니다.",True,,,,True,
+50000,,True,True,True,True,True,,,True,"즉시 입주가능한 원룸 원거실 풀옵션 월세입니다
 애완동물은 불가함
 TV까지 있고 비교적 깔끔하며 대로에 있어서 접근성도 좋음
-보증금도 조절가능"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,"2020건축
+보증금도 조절가능",True,,,,True,
+50000,,True,True,,,,,,True,"2020건축
 방3화1거실 엘리베이트
 주차가능 대출가능
 빠른입주도가능합니다
 신혼부부에게추천
-드려요"
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,True,True,True,"*  올 리모델링 풀옵션 분리형원룸으로 추천해요.
+드려요",True,,,,True,
+20000,,,True,True,True,,,,True,"*  올 리모델링 풀옵션 분리형원룸으로 추천해요.
 *  구의역세권으로 위치 좋고 내부 좋습니다.
 *  방 크고 주방분리, 화장실 따로 있는 구조입니다.
 *  주위 편의시설 좋고 어린이 대공원 가까워 산택하기 좋아요.
@@ -541,27 +551,27 @@ False,False,False,False,False,False,False,False,False,False,False,False,20000,Tr
 
 구의역 1번 출구쪽에 있는 장원부동산입니다.
 좋은물건으로 성심껏 안내하겠습니다.
-감사합니다^^~"
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,True,"구의역 도보7분정도거리
+감사합니다^^~",True,,,,True,
+20000,True,,,,,,,,True,"구의역 도보7분정도거리
 투룸.주방공간도 좋습니다
 도배.장판등 수리 조건입니다
-주차는 어렵습니다"
-False,False,False,False,False,False,False,False,False,False,False,False,80000,True,True,True,True,True,True,True,True,광진구 구의동 구의역 9분거리 신축급 현재세입자 있어요 공실때 사진입니다 2023년5월22일 이후 입주협의 가능한 풀옵션 원룸 
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True," 지역특징 
+주차는 어렵습니다",True,,,,True,
+80000,,True,True,True,True,True,,,True,광진구 구의동 구의역 9분거리 신축급 현재세입자 있어요 공실때 사진입니다 2023년5월22일 이후 입주협의 가능한 풀옵션 원룸 ,True,,,,True,
+,,,,,,,,,True," 지역특징 
  지하철 2호선 역세권(구의역)
  광진구청,롯데백화점,건국대학병원,혜민병원,이마트,자양골목재래시장 등 편의시설 도보 이용가능
  올림픽대로,강변북로,외곽순환도로,동부간선도로,중부고속도로 진입 편리
  잠실대교,영동대교를 통해 강남 진출용이
  어린이대공원, 건국대학교 일감호 등의 녹지환경
- 자양초,건대부중.부고.대학교,동국대부여중.여고 교육환경"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,"-구의역 10분 신축 투룸입니다
+ 자양초,건대부중.부고.대학교,동국대부여중.여고 교육환경",True,,,,True,
+50000,,True,True,True,True,,,,True,"-구의역 10분 신축 투룸입니다
 -내부가 깔끔하고 즉시 입주 가능합니다
 
 ◆ 안녕하세요~ 대광공인중개사사무소입니다 ◆
     저희를 찾아주시는 한 분 한 분께 진심을 다하겠습니다
     원하시는 최적의 물건을 찾으실 때까지 최선을 다하겠습니다
-    문의 전화나 상담은 언제든지 환영합니다"
-False,False,False,False,False,False,False,False,False,False,False,False,15000,True,True,True,"▣ 위치 
+    문의 전화나 상담은 언제든지 환영합니다",True,,,,True,
+15000,,,,,,,,,True,"▣ 위치 
 - 구의역 7분 거리 
 
 ▣ 매물정보 
@@ -613,8 +623,8 @@ A. 깔끔한 투룸 구조 이구요.
 # 100% 직접 촬영한 사진만을 사용합니다. 
 # 중개사고 방지를 위해 2억 공제증서 제공합니다. 
 # 가족의 집을 구한다는 마인드로 최선을 다하겠습니다. 
-# 원하시는 집을 구하실때까지 끝까지 책임지겠습니다."
-False,False,False,False,False,False,False,False,False,False,False,False,100000,True,True,True,True,"✔ 다른 층, 다른 호실도 있습니다
+# 원하시는 집을 구하실때까지 끝까지 책임지겠습니다.",True,,,,True,
+100000,,,True,,,,,,True,"✔ 다른 층, 다른 호실도 있습니다
 ✔ 분양, 전세도 가능합니다
 
 ✔ 옥상에 주민만 이용 가능한 인피니티풀이 있고 바베큐도 이용 가능합니다.
@@ -624,13 +634,16 @@ False,False,False,False,False,False,False,False,False,False,False,False,100000,T
 
 ✔ 옵션 : 시스템에어컨, 인덕션, 비데, 공기순환기
 ✔ 럭셔리하고 패셔너블한 인테리어
-✔ 채광과 환기가 우수합니다"
-False,False,False,False,False,False,False,False,False,False,False,False
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"광나루 역세권 마당있는 1층  단독주택, 
+✔ 채광과 환기가 우수합니다",True,,,,True,
+20000,,,True,,,,,,True,"광나루역 초역세권 살기좋은 빌라 채광좋고 앞뒤베란다
+주차가능, 보증금 조절가능(1억/90만원)
+광장초, 광장중, 장로신학대학교 인근
+입주일 협의가능",True,,,,True,
+,,,,,,,,,True,"광나루 역세권 마당있는 1층  단독주택, 
 도배, 장판, 거실마루, 씽크대 하부장 교체 완료 
 방3칸, 화1, 전용 약 20평
-즉시 입주"
-False,False,False,False,False,False,False,False,False,False,False,False,70000,True,True,True,True,True,True,True,"▶ 매물정보 ◀
+즉시 입주",True,,,,True,
+70000,True,,True,True,True,,,,True,"▶ 매물정보 ◀
 
 ✔ 지하철 : 광나루역 도보7분
 
@@ -660,16 +673,16 @@ False,False,False,False,False,False,False,False,False,False,False,False,70000,Tr
 
 문의주시는 물건외에도 보안상 광고하지 못하는 A급
 물건들이 너무 많이있습니QD다, 고객님의 안전한 입주
-최선을 다해 도와드리겠습니다."
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,True,"5호선 광나루역세권 
+최선을 다해 도와드리겠습니다.",True,,,,True,
+20000,,,True,,,,,,True,"5호선 광나루역세권 
 버스정류장도보 5분
 3층 투룸 입니다
 실내공간 넓고 깨끗합니다
 입주는 7월중 현세입자와 협의 하세요
 대형냉장고,식탁,침대 설치 가능 합니다
 집앞 주차 가능하며 반려동물 가능 합니다
-광장초,광장 중학교 근거리위치"
-False,False,False,False,False,False,False,False,False,False,False,False,200000,True,True,True,True,True,True,True,True,"워커힐 호텔 앞 한강뷰가 아름다운 숙소입니다
+광장초,광장 중학교 근거리위치",True,,,,True,
+200000,,True,True,True,True,,,True,True,"워커힐 호텔 앞 한강뷰가 아름다운 숙소입니다
 
 화이트&우드의 깔끔한 인테리어, 풀옵션으로 몸만오셔도 편안하게 머무르실 수 있게 준비했습니다.
 
@@ -694,8 +707,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,200000,T
 
 ✔️체크인 pm 4:00 체크아웃 am 11:00
 
-✔️전입신고 불가"
-False,False,False,False,False,False,False,False,False,False,False,False,25000,True,True,True,True,True,True,True,"1. 매물의 특징
+✔️전입신고 불가",True,,,,True,
+25000,,True,,True,True,,True,,True,"1. 매물의 특징
 
    -   화이트톤으로 내부가 깔끔하게 수리 된 풀옵션 투룸 월세 매물입니다. 
 
@@ -718,8 +731,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,25000,Tr
 
        24시간 편의점과 코인빨래방과 같은 편의시설 또한 아주 가까운 위치에 있습니다.
 
-       주변으로 아주 다양한 음식점 상권이 형성 되어 있습니다. "
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,True,"1. 매물의 특징
+       주변으로 아주 다양한 음식점 상권이 형성 되어 있습니다. ",True,,,,True,
+30000,,True,True,True,True,,,,True,"1. 매물의 특징
 
    -  내부 구조가 반듯하며 깔끔한 분리형 원룸 매물입니다. 
  
@@ -742,8 +755,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,30000,Tr
 
       대형 할인마트인 GS마켓과 화양 제일시장을 통해 필요한 생필품을 구매할 수 있습니다. 
 
-      건대 맛의 거리와의 입지도 아주 좋습니다만 그에 따른 소음의 영향은 아주 적습니다. "
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,True,True,"⭐🏠 초역세 지상층 원룸 🏠⭐ 
+      건대 맛의 거리와의 입지도 아주 좋습니다만 그에 따른 소음의 영향은 아주 적습니다. ",True,,,,True,
+30000,,True,True,True,True,True,,,True,"⭐🏠 초역세 지상층 원룸 🏠⭐ 
 
 ✔ 위치정보 ✔
 건대입구역 2,7호선 도보 5분 소요 (네이버 지도기준). 
@@ -759,8 +772,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,30000,Tr
 - 관리비에 수도 포함입니다.
 
 📞 더 궁금한 사항 있으시면 언제든지 편하게 문의해주세요! 📞
- 💛 항상 안전한 중개와 신뢰할 수 있는 참조은이 되겠습니다. 💛"
-False,False,False,False,False,False,False,False,False,False,False,False,70000,True,True,True,True,True,True,True,True,"자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요 !!
+ 💛 항상 안전한 중개와 신뢰할 수 있는 참조은이 되겠습니다. 💛",True,,,,True,
+70000,,True,True,True,True,,True,,True,"자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요 !!
 
 -실평수 약 6평의 1.5층 오픈형
 
@@ -783,8 +796,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,70000,Tr
 - 동일장소 10여년 영업 노하우!! 젊은 여성중개사가 최고의 매물만 선별하여
 맞춤형 중개와 엄마의 정성으로 ~ 고객님께 돌려드립니다!!
 
-【카톡 친구】 modu4959"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,"⭐🏡 이 방의 특징 🏡⭐
+【카톡 친구】 modu4959",True,,,,True,
+50000,True,,True,True,True,,,,True,"⭐🏡 이 방의 특징 🏡⭐
 ✔ 3층 밝은집 / 신축급 컨디션 / 학생, 직장인에게 딱!
 ✔ 옵션 : 냉장고, 세탁기, 에어컨, 인덕션, 신발장
 ✔ 관리비 포함 항목 : 인터넷 / 수도, 전기, 가스 요금 별도
@@ -814,8 +827,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 💚 자취가 처음이신가요? 10년 자취 경험 살려 내집 구하는 마음으로 성심성의껏 찾아드리겠습니다!
 💙 카카오톡, 문자 상담 환영합니다!
 🌈 카카오톡ID : smh1596 
-🌈 전화, 문자 : 010-4964-1596"
-False,False,False,False,False,False,False,False,False,False,False,False,150000,True,True,True,True,True,True,True,"신축 오피스텔급, 보증금 조정가능, 주차가능, 6월입주
+🌈 전화, 문자 : 010-4964-1596",True,,,,True,
+150000,True,,True,True,True,,,,True,"신축 오피스텔급, 보증금 조정가능, 주차가능, 6월입주
 
 ⭐🏡 이 방의 특징 🏡⭐
 ✔ 7층 밝은방 / 보안+컨디션 완벽 / 신축급 풀옵션
@@ -844,8 +857,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,150000,T
 💚 자취가 처음이신가요? 10년 자취 경험 살려 내집 구하는 마음으로 성심성의껏 찾아드리겠습니다!
 💙 카카오톡, 문자 상담 환영합니다!
 🌈 카카오톡ID : smh1596 
-🌈 전화, 문자 : 010-4964-1596"
-False,False,False,False,False,False,False,False,False,False,False,False,80000,True,True,True,True,True,True,True,"안녕하세요.
+🌈 전화, 문자 : 010-4964-1596",True,,,,True,
+80000,True,,True,True,True,,,,True,"안녕하세요.
 
 실매물로 보여 드리겠습니다.
 
@@ -861,8 +874,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,80000,Tr
 
 언제든지 보실수 있습니다.
 
-놓치지마세요~ "
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,True,"▶ 신축 2중 보안 건물
+놓치지마세요~ ",True,,,,True,
+50000,True,,True,True,True,True,,,True,"▶ 신축 2중 보안 건물
 ▶ 화양동 건대입구역 도보 5분. 대로변 인접
 ▶ 주방 분리형 구조
 ▶ 실 면적 6평의 넓은 원룸
@@ -888,15 +901,15 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 
 시공한지 얼마되지 않은 건물이라 내부시설도 최상급의 컨디션입니다.
 
-전입신고가 불가능하니 참고 바랍니다."
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,True,"화양동 건대입구역에서 도보로 8분 정도 소요되는 거리입니다.
+전입신고가 불가능하니 참고 바랍니다.",True,,,,True,
+30000,,True,True,True,True,,,,True,"화양동 건대입구역에서 도보로 8분 정도 소요되는 거리입니다.
 
 건물 내,외관을 정부 새로 시공한 신축 같은 빌라식 건물이며 해당호실은 5층에 위치하고 있습니다.
 
 방 크기는 작으나 심플하고 깔끔하게 지낼 수 있는 방입니다.
 
-엘리베이터가 없는 점을 제외하고는 가격대비 만족도가 높은 방입니다."
-False,False,False,False,False,False,False,False,False,False,False,False,60000,True,True,True,True,True,True,True,"교통정보 
+엘리베이터가 없는 점을 제외하고는 가격대비 만족도가 높은 방입니다.",True,,,,True,
+60000,,True,True,True,True,,,,True,"교통정보 
 지하철 2, 7호선 환승역 건대입구역 이용.
 시내, 강남, 분당, 등 각 방면 사통팔달의 버스노선.
 성수동 IT 산업개발 진흥지구 지식산업센터 SKV1 도보 출퇴근 거리
@@ -915,8 +928,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,60000,Tr
 공간이 있어 두분 생활 가능
 리모델링 신축같은 깔끔하고 예쁜원룸
 반지층이라고 냄새나 습기를 생각하면 안됩니다
-사진은 입주전에 찍은  실제사진입니다."
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,"※ 자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요 !! ※
+사진은 입주전에 찍은  실제사진입니다.",True,,,,True,
+50000,,,True,True,True,,,,True,"※ 자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요 !! ※
 
 ✔ 보증금: 500만원 /65만원 @@사진은 현 세입자 입주전 촬영입니다
 실평수 약 6.5평 정도의 4층 오픈형/ 총5층
@@ -946,8 +959,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 
 
 【*카톡친구*】 modu4959
- "
-False,False,False,False,False,False,False,False,False,False,False,False,100000,True,True,True,True,True,True,True,True,"안녕하세요 
+ ",True,,,,True,
+100000,,True,True,True,True,True,,,True,"안녕하세요 
 
 오늘 소개해드릴 매물은 신축 원룸 원거실과 베란다가 있는곳 입니다 
 
@@ -963,8 +976,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,100000,T
 
 반려동물은 안되시고  금액조율은 가능하시니 
 
-놓치지말고 선점하세요 "
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,True,"⭐🏡 이 방의 특징 🏡⭐
+놓치지말고 선점하세요 ",True,,,,True,
+30000,True,,,True,True,,True,,True,"⭐🏡 이 방의 특징 🏡⭐
 ✔ 4층 옥탑층 / 단독세대 / 7평 넓은방
 ✔ 옵션 : 냉장고, 세탁기, 에어컨, 인덕션, 옷장, 신발장
 ✔ 관리비 포함 항목 : 1인 수도요금 / 전기, 가스 요금 별도 
@@ -995,8 +1008,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,30000,Tr
 💚 자취가 처음이신가요? 10년 자취 경험 살려 내집 구하는 마음으로 성심성의껏 찾아드리겠습니다!
 💙 카카오톡, 문자 상담 환영합니다!
 🌈 카카오톡ID : smh1596 
-🌈 전화, 문자 : 010-4964-1596"
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,True," ※ 자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요  !!  ※
+🌈 전화, 문자 : 010-4964-1596",True,,,,True,
+30000,,,True,True,True,,True,,True," ※ 자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요  !!  ※
     
 실평수 약6평 정도 2.5층 오픈형 초역세권  ~건대원룸
 
@@ -1016,8 +1029,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,30000,Tr
 
 ✔ 동일장소  10여년 영업 노하우~ 엄마의 정성으로 ~고객님께 돌려드립니다  !!!
 
-★★★  카카오톡 : modu4959 ★★★"
-False,False,False,False,False,False,False,False,False,False,False,False,40000,True,True,True,True,True,True,True,True,True,"자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요
+★★★  카카오톡 : modu4959 ★★★",True,,,,True,
+40000,True,,True,True,True,True,True,,True,"자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요
 
 -실평수 약 6.5평의 단독옥탑 오픈형
 
@@ -1045,8 +1058,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,40000,Tr
 - 동일장소 10여년 영업 노하우!! 젊은 여성중개사가 최고의 매물만 선별하여
 맞춤형 중개와 엄마의 정성으로 ~ 고객님께 돌려드립니다!!
 
-【카톡 친구】 modu4959"
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,"✸ 가  격: 500/55
+【카톡 친구】 modu4959",True,,,,True,
+,True,,True,True,True,,True,,True,"✸ 가  격: 500/55
 ✸ 옵  션: 가스렌지,냉장고,세탁기,에어컨,신발장,도어락
 ✸ 층  수: 1.5층
 ✸ 위  치: 건대입구 2호선 1번출구에서 도보로 5분내외
@@ -1068,8 +1081,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,True,Tru
    편리합니다.
    
 
-   "
-False,False,False,False,False,False,False,False,False,False,False,False,8,True,True,True,True,True,True,True,True,"※ 허위매물 보상제(사전문의 필수) 5만원 저희 부동산에서 실시합니다. ※
+   ",True,,,,True,
+8,True,,True,True,True,True,,,True,"※ 허위매물 보상제(사전문의 필수) 5만원 저희 부동산에서 실시합니다. ※
 ✔ 실평수 약 6.5평 정도 오픈형 6층 준공12년차 신축급원룸
 
 ✔ 보증금 1000/58만원 ~ 500만원/ 60만원
@@ -1086,8 +1099,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,8,True,T
    맞춤형 중개와 엄마의 정성으로 ~   고객님께 돌려드립니다!!
 
 
-✔ 카톡 : modu4959"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,"내부 사이즈 아주 넓습니다
+✔ 카톡 : modu4959",True,,,,True,
+50000,,True,True,True,True,,,,True,"내부 사이즈 아주 넓습니다
 
 원룸원거실로 공간 충분합니다
 
@@ -1095,8 +1108,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 
 컨디션 대비 저렴하며 훌륭한 방이구요
 
-빨리 계약될 방이라 얼른보셔야 할 방입니다"
-False,False,False,False,False,False,False,False,False,False,False,False,80000,True,True,True,True,True,True,True,True,"자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요 !!
+빨리 계약될 방이라 얼른보셔야 할 방입니다",True,,,,True,
+80000,,True,True,True,True,True,,,True,"자체 허위매물보상제 5만원지불 : 사전 문의 꼭 해주세요 !!
 
 
 ✔ 보증금: 1,000만원/55만원 @@사진은 현 세입자 입주전 촬영입니다
@@ -1131,8 +1144,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,80000,Tr
 100% 실매물, 실사진! 내집 구한다는 마음으로
 최선을 다하겠습니다.
 
-【*카톡친구*】 modu4959"
-False,False,False,False,False,False,False,False,False,False,False,False,100000,True,True,True,True,True,True,True,True,"💝 최상층으로 앞에 막힘없는 복층 원룸입니다
+【*카톡친구*】 modu4959",True,,,,True,
+100000,,True,True,True,True,True,,,True,"💝 최상층으로 앞에 막힘없는 복층 원룸입니다
 
 💝 남향이라 채광이 좋으며 융자가 없어요
 
@@ -1152,8 +1165,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,100000,T
 
 👉 이중보안, CCTV, 엘리베이터가 있어 안전합니다.
 
-👉 입주는 협의사항으로 6월중순이후 협의가능"
-False,False,False,False,False,False,False,False,False,False,False,False,100000,True,True,True,True,True,True,True,True,"안녕하세요.
+👉 입주는 협의사항으로 6월중순이후 협의가능",True,,,,True,
+100000,,True,True,True,True,True,,,True,"안녕하세요.
 
 실매물로 보여 드리겠습니다. 
 
@@ -1171,8 +1184,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,100000,T
 
 하루라도 먼저 오셔서 선점 하세요
 
-문의 많이주세요~"
-False,False,False,False,False,False,False,False,False,False,False,False,100000,True,True,True,True,True,True,True,True,"💚 100% 실매물만 소개드려요^^💚
+문의 많이주세요~",True,,,,True,
+100000,True,,True,True,True,True,,,True,"💚 100% 실매물만 소개드려요^^💚
                      
 ♡ 오늘은 신축6년차 원룸을 소개 드릴께요~
 ♡ 아늑하고 따뜻한 원룸입니다^^
@@ -1194,8 +1207,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,100000,T
 ♥ 위치 : 건대중문 5분,세종대 10분, 조용한 주택가
 ♥ 옵션 : 에어컨,냉장고,인덕션,세탁기,붙박이옷장,책상,신발장,
 ♥ 구조 : 오픈형 원룸
-♥ 편의시설 : 이마트,롯데백화점,스타시티몰,맛의거리"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True," ◈ 지음 공인중개사사무소 이병성 대표 ◈
+♥ 편의시설 : 이마트,롯데백화점,스타시티몰,맛의거리",True,,,,True,
+50000,,,,,,,,,True," ◈ 지음 공인중개사사무소 이병성 대표 ◈
 
 ☎ 문의전화 ☎ 010-8753-5190 (공인중개사/이병성)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
@@ -1221,8 +1234,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 
 ※ 현재 보시는 매물 외에도 다양한 매물 확보중입니다.※
 ☎ 문의전화 ☎ 02) 499-2020 (친절한 상담약속드립니다.)
-☎ 문의전화 ☎ 02) 499-2020 (공인중개사 / 이병성)"
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,True,True,True,True,True,"실평수 약 6.5평 정도의  방1+ 풀옵션
+☎ 문의전화 ☎ 02) 499-2020 (공인중개사 / 이병성)",True,,,,True,
+20000,True,,True,True,True,,True,,True,"실평수 약 6.5평 정도의  방1+ 풀옵션
 
 ✔ 보증금 : 500만원/40만  
 
@@ -1240,8 +1253,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,20000,Tr
 ★★★  카카오톡 : modu4959 ★★★
 
 
- "
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,True,"보증금 1000만 원
+ ",True,,,,True,
+50000,,True,True,True,True,,True,,True,"보증금 1000만 원
 월세 55만 원
 관리비 5만 원
 
@@ -1255,8 +1268,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 신발장 크게 있음
 
 방 크기 적당함,
-침대, 책상, 옷장 들어갈만한 넓이"
-False,False,False,False,False,False,False,False,False,False,False,False,80000,True,True,True,True,True,True,True,True,"안녕하세요.
+침대, 책상, 옷장 들어갈만한 넓이",True,,,,True,
+80000,True,,True,True,True,True,,,True,"안녕하세요.
 
 실매물로 보여 드리겠습니다. 
 
@@ -1278,39 +1291,39 @@ False,False,False,False,False,False,False,False,False,False,False,False,80000,Tr
 
 보증금 조율은 불가능합니다.
 
-학생 및 직장인분들 추천 매물이라 놓치지마세요~"
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,"*큰 (약8p)원룸입니다
+학생 및 직장인분들 추천 매물이라 놓치지마세요~",True,,,,True,
+30000,,True,,True,True,,,,True,"*큰 (약8p)원룸입니다
 * 새롭게 도배청소는 해준답니다.
-*세종대후문 도보2분거리"
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,True,True,True,"*약9평크기의 원룸
+*세종대후문 도보2분거리",True,,,,True,
+30000,,True,True,True,True,True,True,,True,"*약9평크기의 원룸
 *남향으로 베란다도 있슴
-*세종대 후문 도보5분거리"
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,"*깔금한원룸
+*세종대 후문 도보5분거리",True,,,,True,
+,,True,True,True,True,,,,True,"*깔금한원룸
 
 *넓은큰방 이라 좋아요
 
-*주차가능"
-False,False,False,False,False,False,False,False,False,False,False,False,60000,True,True,True,True,True,True,True,"*지정 주차장 사용
+*주차가능",True,,,,True,
+60000,True,,True,True,,,True,,True,"*지정 주차장 사용
 *강남북 출퇴근 용이한 위치
 *태양광 설치로 전기료가 정말 저렴합니다.(월 최대2~3만원내외)
 *초등학교,대학교 도보 3분거리
 *대형슈퍼마켓이 있어서 생활편리
-*애완동물1마리가능"
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,"*큰원룸과 주차도가능
+*애완동물1마리가능",True,,,,True,
+,True,,True,True,True,,,,True,"*큰원룸과 주차도가능
 *남향으로 따뜻합니다
-*깨끗한 빌라형원룸"
-False,False,False,False,False,False,False,False,False,False,False,False,100000,True,True,True,True,True,"추천★★★★★
+*깨끗한 빌라형원룸",True,,,,True,
+100000,,True,True,,,,,,True,"추천★★★★★
 군자역4분 거리, 주택가에 위치
 군자역이 바로 앞이지만 주택가라 조용합니다.
 컨디션 매우 좋아요
 가격 착한 깔끔한 투룸~!!!
-추천드려요~~"
-False,False,False,False,False,False,False,False,False,False,False,False,10000,True,True,True,True,True,True,True,True,"세종대 후문
+추천드려요~~",True,,,,True,
+10000,,True,True,True,True,,True,,True,"세종대 후문
 
 대공원 인근
 
-5-7호선 군자역  도보 이용가능"
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,True,"▣세종사이버대학교및 세종대학교기숙사가 인근에 있음
+5-7호선 군자역  도보 이용가능",True,,,,True,
+30000,,True,,True,True,,True,,True,"▣세종사이버대학교및 세종대학교기숙사가 인근에 있음
 ▣세종초등학교가 인근에 있음/남일어린이공원이 인근에 있음
 ▣군자역 도보 10분정도
 ▣넓은 원룸공간
@@ -1320,27 +1333,23 @@ False,False,False,False,False,False,False,False,False,False,False,False,30000,Tr
 ▣주차시 주차비 5만원
 ▣건대역세권,성수동지식산업센타,강남 접근이 용이함
 ▣대학생및 직장인 2인거주 가능함
-▣사존 기존임차인 거주중인 사진임(현재는 거주하지 않음)"
-False,False,False,False,False,False,False,False,False,False,False,False,70000,True,True,True,True,True,True,"엘베있는 신축급 원룸
-보증금 조절가능이구요 
-붙박이장 있어요
-공실때 사진입니다.
-문의주세요."
-False,False,False,False,False,False,False,False,False,False,False,False,70000,True,True,True,"*빌라식 다가구 주택 
+▣사존 기존임차인 거주중인 사진임(현재는 거주하지 않음)",True,,,,True,
+,,,,,,,,,,,,,,,,
+70000,,,,,,,,,True,"*빌라식 다가구 주택 
 *방2개 거실 다용도실.세탁실 
 *주차가능
 *대출가능 
 *신혼부부 좋아요 
 *내부 깨긋하고 가격저렴 
-*은행융자없음  "
-False,False,False,False,False,False,False,False,False,False,False,False,60000,True,True,True,True,True,True,True,True,"ㅁ 건대와 세종대가 도보 10분 이내의 거리에 있는 어린이대공원역 역세권의 신축급 원룸.
+*은행융자없음  ",True,,,,True,
+60000,True,,True,True,True,,,True,True,"ㅁ 건대와 세종대가 도보 10분 이내의 거리에 있는 어린이대공원역 역세권의 신축급 원룸.
 ㅁ 오피스텔보다 완벽한 빌트인 옵션이 갖추어진 대형 원룸.
 ㅁ 시몬스침대 슈퍼 싱글과 TV, 500메가 광랜 인터넷, cctv 12대 설치 등 보안 완벽한 원룸 건물로 스프링쿨러, 가스예방 센서까지 설치되어 있어요.
-ㅁ 도보 5분 이내의 거리에 대형마트, 빨래방, 버스정류장, 지하철역, 스포츠센터 등 편의 시설 완벽한 위치."
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,"즉시 입주가능
+ㅁ 도보 5분 이내의 거리에 대형마트, 빨래방, 버스정류장, 지하철역, 스포츠센터 등 편의 시설 완벽한 위치.",True,,,,True,
+50000,,,,,,,,,True,"즉시 입주가능
 관리비에 수도요금 인터넷요금. 포함입니다
-햇빛들어오는 밝은 방 입니다."
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,"▣세종사이버대학교및세종대학교 기숙사가 인근에 있음
+햇빛들어오는 밝은 방 입니다.",True,,,,True,
+,,,,True,True,,True,,True,"▣세종사이버대학교및세종대학교 기숙사가 인근에 있음
 ▣세종대학교및세종초등학교가 인근에 있음
 ▣7호선및5호선 더블역세권 군자역 도보 10분 정도 소요
 ▣방이 넓고 큰 원룸/기본옵션 있음/넓은 공간 찾으신분 선호도 높음
@@ -1348,10 +1357,10 @@ False,False,False,False,False,False,False,False,False,False,False,False,True,Tru
 ▣실내내부 깨끗함/관리비는 월세 안에 포함됨
 ▣건대역세권및성수동 지삭산업센타 접근이 용이함
 ▣강남및 왕십리 접근이 용이함
-▣주차1대가능(주차비 10만원)"
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,True,True,True,True,방 사이즈 크고 베란다가 있는 원룸으로  앞에 도로를 접하고 있어 앞이 트여 답답하지 않으며 채광이 좋아요. 주변에 주민자치센터가 가까이에 신축으로 지어졌고 센터내에 도서관이 있어 편리하게 이용하실 수 있습니다. 조용한 주택가에 위치 하고 있으며 교통도 편리합니다. 전용 9평이라 가구를 놓고 쓰기에 좋습니다. 
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,즉시입주 군자역 5분 저렴한 풀옵션 반지층 원룸 
-False,False,False,False,False,False,False,False,False,False,False,False,40000,True,True,True,True,"추천 ★★★★★
+▣주차1대가능(주차비 10만원)",True,,,,True,
+30000,True,,,True,True,,True,,True,방 사이즈 크고 베란다가 있는 원룸으로  앞에 도로를 접하고 있어 앞이 트여 답답하지 않으며 채광이 좋아요. 주변에 주민자치센터가 가까이에 신축으로 지어졌고 센터내에 도서관이 있어 편리하게 이용하실 수 있습니다. 조용한 주택가에 위치 하고 있으며 교통도 편리합니다. 전용 9평이라 가구를 놓고 쓰기에 좋습니다. ,True,,,,True,
+,,True,True,True,True,,True,,True,즉시입주 군자역 5분 저렴한 풀옵션 반지층 원룸 ,True,,,,True,
+40000,,,True,,,,,,True,"추천 ★★★★★
 군자역3~4분 거리, 주택가에 위치한 깔끔한 쓰리룸~!!!
 한번 리모델링하여서 컨디션 좋아요
 주방 겸 거실, 방3개, 화장실1개에요
@@ -1364,8 +1373,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,40000,Tr
 
 -군자역(5호선-7호선)도보 3~4분
 -버스정류장 2~5분(심야버스,광역버스,공항버스 등 노선 다양)
--대공원10여분"
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,"▣세종대학교기숙사및세종사이버대학교가 인근에 있음
+-대공원10여분",True,,,,True,
+,,True,,True,True,,True,,True,"▣세종대학교기숙사및세종사이버대학교가 인근에 있음
 ▣세종초등학교및 세종대학교가 인근에 있음
 ▣군자역 도보 10분 정도
 ▣방3개(큰방1개,작은방2개)/거실/욕실2개(큰거,작은것)
@@ -1374,8 +1383,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,True,Tru
 ▣앞공간에 마당이 있음
 ▣직장인및 대학생 2인~3인 거주하기에 적합한 공간구조임
 ▣도배를 새롭게 하실 예정임
-▣건대역세권및성수동 지식산업센타 접근이 용이함"
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,"💕 LH, SH, 중기청, 버팀목 등 전세자금 대출 가능한 투룸입니다
+▣건대역세권및성수동 지식산업센타 접근이 용이함",True,,,,True,
+,,,,,,,True,,True,"💕 LH, SH, 중기청, 버팀목 등 전세자금 대출 가능한 투룸입니다
 
 💕 즉시 입주 가능합니다
 
@@ -1389,26 +1398,26 @@ False,False,False,False,False,False,False,False,False,False,False,False,True,Tru
 
 💕  2-3분 정도 거리에 버스정류장 있으며
 
-💕 7호선 어린이대공원역 도보 6-7분 "
-False,False,False,False,False,False,False,False,False,False,False,False,80000,True,True,True,True,"건축 5년된 고급자재로 마감하고  거실 안방이 정남향인 방 2개입니다
+💕 7호선 어린이대공원역 도보 6-7분 ",True,,,,True,
+80000,,,True,,,,,,True,"건축 5년된 고급자재로 마감하고  거실 안방이 정남향인 방 2개입니다
 전체적으로 화이트톤으로 마감해서 밝고 좋습니다
-어린이대공원역이 도보 7분이내 거리입니다"
-False,False,False,False,False,False,False,False,False,False,False,False,80000,True,True,True,True,True,True,True,"- 에어컨,냉장고,세탁기,싱크대,인덕션,옷장,   
+어린이대공원역이 도보 7분이내 거리입니다",True,,,,True,
+80000,,True,True,True,,True,,,True,"- 에어컨,냉장고,세탁기,싱크대,인덕션,옷장,   
    신발장,전자레인지,TV 옵션입니다.
 - 본 건물내 다양한 크기의 복층형원룸 및 
     투룸이 있습니다.
 ㆍ보증금 조정 가능합니다.
 
 ㆍ연락주시면 결정하는데 도움이될
-    동영상을 보내드립니댜."
-False,False,False,False,False,False,False,False,False,False,False,False,30000,True,True,True,"세종대후문
+    동영상을 보내드립니댜.",True,,,,True,
+30000,,,,,,,,,True,"세종대후문
 대공원인근
 동일로 이면주택
-미니 지층으로 깨끗하고 밝음"
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,"능동대로변 지척인 거실 주방 분리된 방 2개 입니다
+미니 지층으로 깨끗하고 밝음",True,,,,True,
+50000,,,,,,,,,True,"능동대로변 지척인 거실 주방 분리된 방 2개 입니다
 반지층이라도 거실 방이 전부 남향이라 훤하고 방이 큽니다
-대공원역 도보 5분이내거리로  가깝습니다."
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,True,True,True,True,True,"✅ 군자역 5분 거리에 풀옵션 투룸 매물이에요.
+대공원역 도보 5분이내거리로  가깝습니다.",True,,,,True,
+20000,,True,True,True,True,,True,,True,"✅ 군자역 5분 거리에 풀옵션 투룸 매물이에요.
 
 ✅ 올수리되어있는 깨끗한 투룸 매물이에요.
 
@@ -1416,8 +1425,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,20000,Tr
 
 ✅ 조용한 주택가에 위치하고 있어 주거환경이 좋아요.
 
-💥 애완동물 불가 매물이에요."
-False,False,False,False,False,False,False,False,False,False,False,False,50000,True,True,True,True,True,True,True,"군자역3~4분거리, 주택가에 위치
+💥 애완동물 불가 매물이에요.",True,,,,True,
+50000,,True,True,True,True,,,,True,"군자역3~4분거리, 주택가에 위치
 리모델링 한번 하였던 방으로 컨디션 매우 좋아요
 방2개, 주방, 화장실로 이루어진 구조 입니다.
 풀옵션이며 전세대출가능합니다.
@@ -1425,8 +1434,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,50000,Tr
 
 -군자역(5호선-7호선)도보 3~4분
 -버스정류장 3~5분(심야버스,광역버스,공항버스 등 노선 다양)
--대공원10분"
-False,False,False,False,False,False,False,False,False,False,False,False,7,True,True,True,True,True,True,True,"❤❤ 신축, 3년차 초역세권의 대단지 넓은 투룸, 최강입지!
+-대공원10분",True,,,,True,
+7,True,,True,True,True,,,,True,"❤❤ 신축, 3년차 초역세권의 대단지 넓은 투룸, 최강입지!
 
 📸 사진은 세입자 있어 신축 때 사진임을 알려 드립니다
 
@@ -1451,13 +1460,13 @@ False,False,False,False,False,False,False,False,False,False,False,False,7,True,T
 🚘 주차 가능합니다
 
 ❤❤신축,3년차 역세권 쾌적한 입지의 넓은 투룸으로
-         금방 나가는 물건이니, 서둘러 확인해보세요‼"
-False,False,False,False,False,False,False,False,False,False,False,False,20000,True,True,True,True,True,True,True,"세종대학 인근
+         금방 나가는 물건이니, 서둘러 확인해보세요‼",True,,,,True,
+20000,,True,True,True,,,True,,True,"세종대학 인근
 대공원 정문 인근
 군자 역세권
-풀옵션"
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,"저렴한 투룸으로 건축물 대장상 반지층이나 실제로는 바닥층으로 수리되어 있어서 깨끗합니다. 입구에 비 맞지 않도록 채양막을 해 놓아서 우천시 빗방울 튀지 않고,  방이 모두 밝고 특히 안방이 넓어요. 작은 방은 땅 모양 때문에 삼각형입니다. 군자역 도보 5분이내 거리로 대공원도 가깝고 생활하기 좋은 동네입니다. "
-False,False,False,False,False,False,False,False,False,False,False,False,60000,True,True,True,"✅ 군자역세권,세종대바로앞 투룸이에요.
+풀옵션",True,,,,True,
+,,,,,,,,,True,"저렴한 투룸으로 건축물 대장상 반지층이나 실제로는 바닥층으로 수리되어 있어서 깨끗합니다. 입구에 비 맞지 않도록 채양막을 해 놓아서 우천시 빗방울 튀지 않고,  방이 모두 밝고 특히 안방이 넓어요. 작은 방은 땅 모양 때문에 삼각형입니다. 군자역 도보 5분이내 거리로 대공원도 가깝고 생활하기 좋은 동네입니다. ",True,,,,True,
+60000,,,,,,,,,True,"✅ 군자역세권,세종대바로앞 투룸이에요.
 
 ✅ 동일가격대의 투룸들보다 거실이 넓어서 좋아요.
 
@@ -1469,8 +1478,8 @@ False,False,False,False,False,False,False,False,False,False,False,False,60000,Tr
 
 ✅ 옵션은 없어요. 살림가지고 다니시는분들께 추천드려요.
 
-❌ 애완동물 불가,주차불가 매물이에요. "
-False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,"내부 수리되어 깔끔 합니다
+❌ 애완동물 불가,주차불가 매물이에요. ",True,,,,True,
+,True,,True,True,True,,True,,True,"내부 수리되어 깔끔 합니다
 방크기도 좋습니다
 옵션있어  거주하기 편리합니다
 군자역 이용 가능합니다
@@ -1478,4 +1487,4 @@ False,False,False,False,False,False,False,False,False,False,False,False,True,Tru
 주차  .반려동물은 불가합니다
 현재 임차인거주로 사진은 공실일때 사진입니다
 월세에 관리비 포함되었습니다
-궁금하신건 문의 주세요"
+궁금하신건 문의 주세요",True,,,,True,
